@@ -27,3 +27,6 @@ forge*changelog.txt
 # Project
 secrets.properties
 **/.cache
+
+# csv
+**/csv/__pycache__
